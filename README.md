@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/dhanashreemhatre/dhanashreemhatre/blob/main/WhatsApp%20Video%202023-12-17%20at%2011.54.33%20AM.mp4)](https://github.com/dhanashreemhatre)
+[![MasterHead](https://i.pinimg.com/originals/89/70/43/8970437c3e3df27cb040130e133dc6a4.jpg)](https://github.com/dhanashreemhatre)
 <h1 align="center">Hi 👋, I'm Dhanashree Mhatre</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align=“right” alt=“Coding” width=“400” src=“2a53651a35816f499270d8275fd5318f.gif”>
