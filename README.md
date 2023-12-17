@@ -1,4 +1,4 @@
-[[MasterHead]](https://steamcommunity.com/sharedfiles/filedetails/?id=952185653)
+[[MasterHead]]()
 <h1 align="center">Hi 👋, I'm Dhanashree Mhatre</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align=“right” alt=“Coding” width=“400” src=“2a53651a35816f499270d8275fd5318f.gif”>
