@@ -1,10 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/89/70/43/8970437c3e3df27cb040130e133dc6a4.jpg)](https://github.com/dhanashreemhatre)
+[![MasterHead](https://t4.ftcdn.net/jpg/04/92/06/53/360_F_492065380_eSlHdkdNBy6ArNkk5gV0Lme1qhvTosSI.jpg)](https://github.com/dhanashreemhatre)
 <h1 align="center">Hi 👋, I'm Dhanashree Mhatre</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align=“right” alt=“Coding” width=“400” src=“2a53651a35816f499270d8275fd5318f.gif”>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashreemhatre&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashreemhatre" /> </p>
+<p align="left"> <img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg" alt="dhanashreemhatre" height="300px" width="50%"/> </p>
 
 - 🔭 I’m currently working on **E commerce Website**
 
