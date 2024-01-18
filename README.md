@@ -32,7 +32,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhanashreemhatre&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhanashreemhatre&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanashreemhatre&show_icons=true&locale=en&layout=compact"alt="dhanashreemhatre" /></p>
 
