@@ -32,6 +32,7 @@
 
 ### :fire: My Stats :
 
+<div style="text-align:center>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanashreemhatre&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB" alt="dhanashreemhatre" /></p>
 
 
@@ -39,5 +40,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanashreemhatre&show_icons=true&locale=en&layout=compact&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB"alt="dhanashreemhatre" /></p>
 
-
+</div>
 
