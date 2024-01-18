@@ -32,7 +32,8 @@
 
 ### :fire: My Stats :
 
-<div style="text-align:center>
+<div style="text-align:center">
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanashreemhatre&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB" alt="dhanashreemhatre" /></p>
 
 
