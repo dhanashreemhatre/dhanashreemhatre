@@ -32,6 +32,8 @@
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhanashreemhatre&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanashreemhatre&show_icons=true&locale=en&layout=compact"alt="dhanashreemhatre" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanashreemhatre&show_icons=true&locale=en" alt="dhanashreemhatre" /></p>
