@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React,Node js**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Web development**
 
 - 🤝 I’m looking for help with **Python automation**
 
