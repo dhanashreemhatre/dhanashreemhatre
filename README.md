@@ -36,7 +36,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dhanashreemhatre&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB" alt="GitHub Streak" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanashreemhatre&show_icons=true&locale=en&layout=compact"alt="dhanashreemhatre" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanashreemhatre&show_icons=true&locale=en&layout=compact&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB"alt="dhanashreemhatre" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanashreemhatre&show_icons=true&locale=en" alt="dhanashreemhatre" /></p>
 
