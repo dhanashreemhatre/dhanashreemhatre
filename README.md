@@ -52,24 +52,24 @@
 ---
 
 ### 📈 GitHub Stats:
-```bash
-# GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanashreemhatre&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB)
 
-# GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanashreemhatre&show_icons=true&locale=en&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB)
+#### GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanashreemhatre&theme=dracula&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB)
 
-# Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dhanashreemhatre&show_icons=true&locale=en&layout=compact&theme=dark&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB)
-```
+#### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanashreemhatre&show_icons=true&locale=en&theme=dracula&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB)
+
+#### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dhanashreemhatre&show_icons=true&locale=en&layout=compact&theme=dracula&stroke=2A3169&sideLabels=5550A1&dates=B9B0EB)
+
 
 ---
 
 ### 📫 Connect with Me:
-```bash
+
 - Email: dhanashreemhatrewebdeveloper@gmail.com
 - Portfolio: [dhanashree-s-portfolio](https://dhanashreemhatre.github.io/dhanashree-s-portfolio/)
 - Medium: [@mhatredhanashree682](https://medium.com/@mhatredhanashree682)
-```
+
 
 ---
