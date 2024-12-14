@@ -1,6 +1,3 @@
-<!-- Astronomical Background -->
-![Astronomical Background](/astronomical-background.svg)
-
 # 🚀 Dhanashree Mhatre | Cosmic Code Architect 🌌
 
 <div align="center">
@@ -73,7 +70,7 @@ A full-stack digital gateway redefining online marketplace experiences across te
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanashreemhatre&theme=monokai" alt="Cosmic Profile Summary" />
-  
+  <br>
   <div>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanashreemhatre&theme=monokai" alt="Stellar Streak" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanashreemhatre&layout=compact&theme=monokai" alt="Language Galaxies" />
@@ -85,9 +82,9 @@ A full-stack digital gateway redefining online marketplace experiences across te
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Quantum%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanashreemhatrewebdeveloper@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanashree-m-175bbb22b/)
 [![Medium](https://img.shields.io/badge/Thought%20Transmissions-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mhatredhanashree682)
-[![Portfolio](https://img.shields.io/badge/Digital%20Coordinates-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://dhanashreemhatre.github.io/dhanashree-s-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Digital%20Coordinates-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://dhanashree.vercel.app/)
 
 </div>
 
